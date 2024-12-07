@@ -1,0 +1,20 @@
+{
+  "name": "ite-18-activity-2.1-2.3",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "deploy": "vercel --prod",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "rollup": "^4.28.1",
+    "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "lil-gui": "^0.17.0",
+    "three": "^0.148.0",
+    "vercel": "^32.7.2"
+  }
+}
